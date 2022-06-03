@@ -61,7 +61,7 @@ public class Main {
 
         return (number >= 10) && (number <= 100);
 
-        //* Check that input integer belongs to the segment 100 to 100 (inclusive).
+        //* Check that input integer belongs to the segment 10 to 100 (inclusive).
     }
 
     public static void main(String[] args) {
